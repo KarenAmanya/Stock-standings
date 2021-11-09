@@ -1,7 +1,7 @@
 import requests
 import datetime
 
-key="CRT3H5WX3YD1WY34"
+key="xxxx"
 print("This program fetches stock data on the equity of your choice during a time period also of your choice:")
 choice=input("Enter '1' to access daily data ,'2' to access weekly data and '3' to access monthly data:")
 equity=input("Enter your equity of choice eg 'TSLA' for Tesla:\n").upper()
